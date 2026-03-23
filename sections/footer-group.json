@@ -16,8 +16,8 @@
       "name": "Advanced Shape Divider",
       "settings": {
         "divider_shape": "waves",
-        "divider_fill_color": "#dfdfdf",
-        "background_color": "transparent",
+        "divider_fill_color": "#ffffff",
+        "background_color": "#eff1ea",
         "reverse_shape": false,
         "divider_height": 160,
         "divider_width_multiplier": 1.2
