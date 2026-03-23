@@ -101,6 +101,7 @@
             },
             "text_f9CFLH": {
               "type": "text",
+              "disabled": true,
               "settings": {
                 "text": "<p>Get exclusive deals and early access to new products.</p>",
                 "width": "100%",
