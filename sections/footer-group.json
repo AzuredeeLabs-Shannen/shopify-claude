@@ -31,8 +31,8 @@
             "custom_width_mobile": 100,
             "height": "fit",
             "custom_height": 100,
-            "inherit_color_scheme": true,
-            "color_scheme": "",
+            "inherit_color_scheme": false,
+            "color_scheme": "scheme-3",
             "background_media": "none",
             "video_position": "cover",
             "background_image_position": "cover",
@@ -166,7 +166,7 @@
       "settings": {
         "section_width": "page-width",
         "gap": 20,
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-3",
         "padding-block-start": 30,
         "padding-block-end": 30
       }
