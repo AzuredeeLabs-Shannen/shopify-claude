@@ -11,6 +11,18 @@
   "type": "footer",
   "name": "Footer",
   "sections": {
+    "advanced_shape_divider_cJeaAG": {
+      "type": "advanced-shape-divider",
+      "name": "Advanced Shape Divider",
+      "settings": {
+        "divider_shape": "waves",
+        "divider_fill_color": "#dfdfdf",
+        "background_color": "transparent",
+        "reverse_shape": false,
+        "divider_height": 160,
+        "divider_width_multiplier": 1.2
+      }
+    },
     "footer_m9NzUG": {
       "type": "footer",
       "blocks": {
@@ -228,6 +240,7 @@
     }
   },
   "order": [
+    "advanced_shape_divider_cJeaAG",
     "footer_m9NzUG",
     "footer_utilities_jLGE8U"
   ]
